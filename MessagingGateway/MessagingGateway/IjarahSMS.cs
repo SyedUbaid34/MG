@@ -30,6 +30,12 @@ namespace MessagingGateway
             set;
         }
 
+        public string Syed
+        {
+            get;
+            set;
+        }
+
         [DataMember(Name = "AccountNumber", Order = 3)]
         public string AccountNumber
         {
