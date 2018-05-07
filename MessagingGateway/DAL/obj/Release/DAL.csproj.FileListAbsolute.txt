@@ -1,0 +1,63 @@
+D:\production 220 server code\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\production 220 server code\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\production 220 server code\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\production 220 server code\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Release\DAL.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.pdb
+D:\BulkMailCode\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\BulkMailCode\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\BulkMailCode\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\BulkMailCode\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\BulkMailCode\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\BulkMailCode\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\BulkMailCode\MessagingGateway\DAL\obj\Release\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Release\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Release\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Release\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Release\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Release\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Release\DAL.pdb
+D:\IjarahCode\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\IjarahCode\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\IjarahCode\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\IjarahCode\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\IjarahCode\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\IjarahCode\MessagingGateway\DAL\obj\Release\DAL.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\bin\Release\DAL.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\bin\Release\ErrorLogger.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\DAL\obj\Release\DAL.pdb

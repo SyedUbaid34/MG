@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+    @media only screen and (min-width : 768px) {
+	.colr {
+	background-color: #F0F !important;
+	width: 15px;
+}
+.colr2 {
+	background-color: #F0F !important;
+	width: 15px;
+}
+	}

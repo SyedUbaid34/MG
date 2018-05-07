@@ -1,0 +1,6 @@
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\obj\Release\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\obj\Release\MessageSimulator.dll
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\obj\Release\MessageSimulator.pdb

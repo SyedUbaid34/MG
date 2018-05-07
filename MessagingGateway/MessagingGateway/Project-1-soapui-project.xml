@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="87f9c28e-6e9d-4739-aeb2-db0c6c69729f" activeEnvironment="Default" name="Project 1" soapui-version="5.2.1" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" id="e3a5b471-677c-4f02-a1ca-771ac0fce2ee" wsaVersion="NONE" name="BasicHttpBinding_IijaraMessagingGateway" type="wsdl" bindingName="{http://tempuri.org/}BasicHttpBinding_IijaraMessagingGateway" soapVersion="1_1" anonymous="optional" definition="http://localhost:57014/ijaraMessagingGateway.svc?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://localhost:57014/ijaraMessagingGateway.svc?wsdl"><con:part><con:url>http://localhost:57014/ijaraMessagingGateway.svc?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="ijaraMessagingGateway" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://tempuri.org/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd0" namespace="http://tempuri.org/"/>
+      <xsd:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+      <xsd:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd2"/>
+      <xsd:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/MessagingGateway"/>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IijaraMessagingGateway_SendSMS_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSMS"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSMS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSMSResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendEMail_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendEMail"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendEMail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendEMailResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSRSms_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSRSms"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSRSms_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSRSmsResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSREmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSREmail"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSREmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSREmailResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSaleSMS_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSaleSMS"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSaleSMS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSaleSMSResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSaleEmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSaleEmail"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendSaleEmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSaleEmailResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendPOSSMS_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendPOSSMS"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendPOSSMS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendPOSSMSResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendOTP_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendOTP"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendOTP_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendOTPResponse"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendBulkEmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendBulkEmail"/>
+  </wsdl:message>
+  <wsdl:message name="IijaraMessagingGateway_SendBulkEmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendBulkEmailResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="IijaraMessagingGateway">
+    <wsdl:operation name="SendSMS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSMS" message="tns:IijaraMessagingGateway_SendSMS_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSMSResponse" message="tns:IijaraMessagingGateway_SendSMS_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendEMail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendEMail" message="tns:IijaraMessagingGateway_SendEMail_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendEMailResponse" message="tns:IijaraMessagingGateway_SendEMail_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendSRSms">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSRSms" message="tns:IijaraMessagingGateway_SendSRSms_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSRSmsResponse" message="tns:IijaraMessagingGateway_SendSRSms_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendSREmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSREmail" message="tns:IijaraMessagingGateway_SendSREmail_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSREmailResponse" message="tns:IijaraMessagingGateway_SendSREmail_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendSaleSMS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSaleSMS" message="tns:IijaraMessagingGateway_SendSaleSMS_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSaleSMSResponse" message="tns:IijaraMessagingGateway_SendSaleSMS_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendSaleEmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSaleEmail" message="tns:IijaraMessagingGateway_SendSaleEmail_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendSaleEmailResponse" message="tns:IijaraMessagingGateway_SendSaleEmail_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendPOSSMS">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendPOSSMS" message="tns:IijaraMessagingGateway_SendPOSSMS_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendPOSSMSResponse" message="tns:IijaraMessagingGateway_SendPOSSMS_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendOTP">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendOTP" message="tns:IijaraMessagingGateway_SendOTP_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendOTPResponse" message="tns:IijaraMessagingGateway_SendOTP_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="SendBulkEmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendBulkEmail" message="tns:IijaraMessagingGateway_SendBulkEmail_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/IijaraMessagingGateway/SendBulkEmailResponse" message="tns:IijaraMessagingGateway_SendBulkEmail_OutputMessage"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IijaraMessagingGateway" type="tns:IijaraMessagingGateway">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="SendSMS">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendSMS" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendEMail">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendEMail" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendSRSms">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendSRSms" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendSREmail">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendSREmail" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendSaleSMS">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendSaleSMS" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendSaleEmail">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendSaleEmail" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendPOSSMS">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendPOSSMS" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendOTP">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendOTP" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendBulkEmail">
+      <soap:operation soapAction="http://tempuri.org/IijaraMessagingGateway/SendBulkEmail" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ijaraMessagingGateway">
+    <wsdl:port name="BasicHttpBinding_IijaraMessagingGateway" binding="tns:BasicHttpBinding_IijaraMessagingGateway">
+      <soap:address location="http://localhost:57014/ijaraMessagingGateway.svc"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part><con:part><con:url>http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd0</con:url><con:content><![CDATA[<xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://tempuri.org/">
+  <xs:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd2"/>
+  <xs:import schemaLocation="http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/MessagingGateway"/>
+  <xs:element name="SendSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ObjIjarahSMS" nillable="true" type="SendSMS"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSMSResult" nillable="true" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendEMail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahEmail" nillable="true" type="SendMail"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendEMailResponse">
+    <xs:complexType>
+      <xs:sequence/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSRSms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSRSMS" nillable="true" type="SendSRSms"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSRSmsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSRSmsResult" nillable="true" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSREmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSREmail" nillable="true" type="SendSREmail"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSREmailResponse">
+    <xs:complexType>
+      <xs:sequence/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSalesSMS" nillable="true" type="SendSaleSMS"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSaleSMSResult" nillable="true" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleEmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSalesEmail" nillable="true" type="SendSaleEmail"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleEmailResponse">
+    <xs:complexType>
+      <xs:sequence/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendPOSSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahPOSSMS" nillable="true" type="SendPOSSMS"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendPOSSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendPOSSMSResult" nillable="true" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendOTP">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahOTPSMS" nillable="true" type="q1:IjarahOTPSMS" xmlns:q1="http://schemas.datacontract.org/2004/07/MessagingGateway"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendOTPResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendOTPResult" nillable="true" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendBulkEmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahBulkEmail" nillable="true" type="SendBulkEmail"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendBulkEmailResponse">
+    <xs:complexType>
+      <xs:sequence/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part><con:part><con:url>http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd2</con:url><con:content><![CDATA[<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="SendSMS">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Recipients" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SMSReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="AccountNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="LicensePlateNo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendSMS" nillable="true" type="SendSMS"/>
+  <xs:complexType name="SendMail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsTo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsCc" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="EmailReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="AccountNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="LicensePlateNo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomSubjectHead" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendMail" nillable="true" type="SendMail"/>
+  <xs:complexType name="SendSRSms">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Recipients" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SMSReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="OpportunityNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SubCategory" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SadadReferenceNumber" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendSRSms" nillable="true" type="SendSRSms"/>
+  <xs:complexType name="SendSREmail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsTo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsCc" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="EmailReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="OpportunityNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SubCategory" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomSubjectHead" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SadadReferenceNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomerName" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomerIBAN" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomerBankName" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="VirtualAccount" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendSREmail" nillable="true" type="SendSREmail"/>
+  <xs:complexType name="SendSaleSMS">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Recipients" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="ApplicationNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Gender" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Firstname" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DownPayment" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="AdminFee" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="VirtualAccntNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SADADRefNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SMSReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Totalamount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Carbrand" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Numberplate" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendSaleSMS" nillable="true" type="SendSaleSMS"/>
+  <xs:complexType name="SendSaleEmail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsTo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsCc" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="EmailReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="ApplicationNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Gender" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Firstname" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DownPayment" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomSubjectHead" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="AdminFee" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="VirtualAccntNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SADADRefNum" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Totalamount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Carbrand" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Numberplate" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendSaleEmail" nillable="true" type="SendSaleEmail"/>
+  <xs:complexType name="SendPOSSMS">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Recipients" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="referencenumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SMSReference" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendPOSSMS" nillable="true" type="SendPOSSMS"/>
+  <xs:complexType name="SendBulkEmail">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="RecipientsTo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomSubjectHead" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="OpportunityNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SubjectN" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SubjectU" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="RecipientsCc" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SendBulkEmail" nillable="true" type="SendBulkEmail"/>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part><con:part><con:url>http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd3</con:url><con:content><![CDATA[<xs:schema elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MessagingGateway" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.datacontract.org/2004/07/MessagingGateway">
+  <xs:complexType name="IjarahOTPSMS">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AccountNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Amount" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="CustomMessage" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="DueDate" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="LicensePlateNo" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="MessageType" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="OpportunityNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="PartnerCode" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="Recipients" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SMSReference" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SadadReferenceNumber" nillable="true" type="xs:string"/>
+      <xs:element minOccurs="0" name="SubCategory" nillable="true" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="IjarahOTPSMS" nillable="true" type="tns:IjarahOTPSMS"/>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part><con:part><con:url>http://localhost:57014/ijaraMessagingGateway.svc?xsd=xsd1</con:url><con:content><![CDATA[<xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/">
+  <xs:element name="anyType" nillable="true" type="xs:anyType"/>
+  <xs:element name="anyURI" nillable="true" type="xs:anyURI"/>
+  <xs:element name="base64Binary" nillable="true" type="xs:base64Binary"/>
+  <xs:element name="boolean" nillable="true" type="xs:boolean"/>
+  <xs:element name="byte" nillable="true" type="xs:byte"/>
+  <xs:element name="dateTime" nillable="true" type="xs:dateTime"/>
+  <xs:element name="decimal" nillable="true" type="xs:decimal"/>
+  <xs:element name="double" nillable="true" type="xs:double"/>
+  <xs:element name="float" nillable="true" type="xs:float"/>
+  <xs:element name="int" nillable="true" type="xs:int"/>
+  <xs:element name="long" nillable="true" type="xs:long"/>
+  <xs:element name="QName" nillable="true" type="xs:QName"/>
+  <xs:element name="short" nillable="true" type="xs:short"/>
+  <xs:element name="string" nillable="true" type="xs:string"/>
+  <xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte"/>
+  <xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt"/>
+  <xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong"/>
+  <xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort"/>
+  <xs:element name="char" nillable="true" type="tns:char"/>
+  <xs:simpleType name="char">
+    <xs:restriction base="xs:int"/>
+  </xs:simpleType>
+  <xs:element name="duration" nillable="true" type="tns:duration"/>
+  <xs:simpleType name="duration">
+    <xs:restriction base="xs:duration">
+      <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?"/>
+      <xs:minInclusive value="-P10675199DT2H48M5.4775808S"/>
+      <xs:maxInclusive value="P10675199DT2H48M5.4775807S"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="guid" nillable="true" type="tns:guid"/>
+  <xs:simpleType name="guid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:attribute name="FactoryType" type="xs:QName"/>
+  <xs:attribute name="Id" type="xs:ID"/>
+  <xs:attribute name="Ref" type="xs:IDREF"/>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint></con:endpoints><con:operation id="6aa4723e-7f90-4fc1-8e11-c1bf3aa471b6" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendBulkEmail" name="SendBulkEmail" bindingOperationName="SendBulkEmail" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="836160d4-78b8-4fc6-a51f-5b0f12e15fef" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendBulkEmail>\r
+         <!--Optional:-->\r
+         <tem:objIjarahBulkEmail>\r
+            <!--Optional:-->\r
+            <RecipientsTo>?</RecipientsTo>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <CustomSubjectHead>?</CustomSubjectHead>\r
+            <!--Optional:-->\r
+            <OpportunityNumber>?</OpportunityNumber>\r
+            <!--Optional:-->\r
+            <SubjectN>?</SubjectN>\r
+            <!--Optional:-->\r
+            <SubjectU>?</SubjectU>\r
+            <!--Optional:-->\r
+            <RecipientsCc>?</RecipientsCc>\r
+         </tem:objIjarahBulkEmail>\r
+      </tem:SendBulkEmail>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendBulkEmail"/></con:call></con:operation><con:operation id="b21cf228-bfbb-45f7-a662-e21d2ae0a356" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendEMail" name="SendEMail" bindingOperationName="SendEMail" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="0ce39b4f-ea47-451f-a893-633dbe8404f0" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendEMail>\r
+         <!--Optional:-->\r
+         <tem:objIjarahEmail>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <RecipientsTo>?</RecipientsTo>\r
+            <!--Optional:-->\r
+            <RecipientsCc>?</RecipientsCc>\r
+            <!--Optional:-->\r
+            <EmailReference>?</EmailReference>\r
+            <!--Optional:-->\r
+            <AccountNumber>?</AccountNumber>\r
+            <!--Optional:-->\r
+            <LicensePlateNo>?</LicensePlateNo>\r
+            <!--Optional:-->\r
+            <Amount>?</Amount>\r
+            <!--Optional:-->\r
+            <DueDate>?</DueDate>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomSubjectHead>?</CustomSubjectHead>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+         </tem:objIjarahEmail>\r
+      </tem:SendEMail>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendEMail"/></con:call></con:operation><con:operation id="cc4c8388-ee1e-41ab-97f8-67dac1d18441" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendOTP" name="SendOTP" bindingOperationName="SendOTP" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="3e3a7af9-04e0-4453-8b3f-faad69b1171e" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/" xmlns:mes="http://schemas.datacontract.org/2004/07/MessagingGateway">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendOTP>\r
+         <!--Optional:-->\r
+         <tem:objIjarahOTPSMS>\r
+            <!--Optional:-->\r
+            <mes:AccountNumber>?</mes:AccountNumber>\r
+            <!--Optional:-->\r
+            <mes:Amount>?</mes:Amount>\r
+            <!--Optional:-->\r
+            <mes:Category>?</mes:Category>\r
+            <!--Optional:-->\r
+            <mes:CustomMessage>?</mes:CustomMessage>\r
+            <!--Optional:-->\r
+            <mes:DueDate>?</mes:DueDate>\r
+            <!--Optional:-->\r
+            <mes:LicensePlateNo>?</mes:LicensePlateNo>\r
+            <!--Optional:-->\r
+            <mes:MessageCode>?</mes:MessageCode>\r
+            <!--Optional:-->\r
+            <mes:MessageType>?</mes:MessageType>\r
+            <!--Optional:-->\r
+            <mes:OpportunityNumber>?</mes:OpportunityNumber>\r
+            <!--Optional:-->\r
+            <mes:PartnerCode>?</mes:PartnerCode>\r
+            <!--Optional:-->\r
+            <mes:Recipients>?</mes:Recipients>\r
+            <!--Optional:-->\r
+            <mes:SMSReference>?</mes:SMSReference>\r
+            <!--Optional:-->\r
+            <mes:SadadReferenceNumber>?</mes:SadadReferenceNumber>\r
+            <!--Optional:-->\r
+            <mes:SubCategory>?</mes:SubCategory>\r
+         </tem:objIjarahOTPSMS>\r
+      </tem:SendOTP>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendOTP"/></con:call></con:operation><con:operation id="8ac49bca-2736-4a4f-9273-4ff25686374e" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendPOSSMS" name="SendPOSSMS" bindingOperationName="SendPOSSMS" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="f7106436-919b-4dc2-aef9-64f58b16a3af" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendPOSSMS>\r
+         <!--Optional:-->\r
+         <tem:objIjarahPOSSMS>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <Recipients>?</Recipients>\r
+            <!--Optional:-->\r
+            <amount>?</amount>\r
+            <!--Optional:-->\r
+            <referencenumber>?</referencenumber>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+            <!--Optional:-->\r
+            <SMSReference>?</SMSReference>\r
+         </tem:objIjarahPOSSMS>\r
+      </tem:SendPOSSMS>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendPOSSMS"/></con:call></con:operation><con:operation id="14f813a4-ff1f-4725-86b0-5ab48e0f4070" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendSaleEmail" name="SendSaleEmail" bindingOperationName="SendSaleEmail" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="00efc946-d57d-4374-8b1c-153030700072" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendSaleEmail>\r
+         <!--Optional:-->\r
+         <tem:objIjarahSalesEmail>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <RecipientsTo>?</RecipientsTo>\r
+            <!--Optional:-->\r
+            <RecipientsCc>?</RecipientsCc>\r
+            <!--Optional:-->\r
+            <EmailReference>?</EmailReference>\r
+            <!--Optional:-->\r
+            <ApplicationNum>?</ApplicationNum>\r
+            <!--Optional:-->\r
+            <Gender>?</Gender>\r
+            <!--Optional:-->\r
+            <Firstname>?</Firstname>\r
+            <!--Optional:-->\r
+            <DownPayment>?</DownPayment>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomSubjectHead>?</CustomSubjectHead>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+            <!--Optional:-->\r
+            <AdminFee>?</AdminFee>\r
+            <!--Optional:-->\r
+            <VirtualAccntNum>?</VirtualAccntNum>\r
+            <!--Optional:-->\r
+            <SADADRefNum>?</SADADRefNum>\r
+            <!--Optional:-->\r
+            <Totalamount>?</Totalamount>\r
+            <!--Optional:-->\r
+            <Carbrand>?</Carbrand>\r
+            <!--Optional:-->\r
+            <Numberplate>?</Numberplate>\r
+         </tem:objIjarahSalesEmail>\r
+      </tem:SendSaleEmail>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendSaleEmail"/></con:call></con:operation><con:operation id="ac6e8fcc-1fbf-425a-9a11-c8f6062b6ed9" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendSaleSMS" name="SendSaleSMS" bindingOperationName="SendSaleSMS" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="94f17e3f-e588-4516-9b98-664c2191010a" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendSaleSMS>\r
+         <!--Optional:-->\r
+         <tem:objIjarahSalesSMS>\r
+            <!--Optional:-->\r
+            <PartnerCode>IJARAH</PartnerCode>\r
+            <!--Optional:-->\r
+            <Recipients>966559634177</Recipients>\r
+            <!--Optional:-->\r
+            <ApplicationNum></ApplicationNum>\r
+            <!--Optional:-->\r
+            <Gender></Gender>\r
+            <!--Optional:-->\r
+            <Firstname></Firstname>\r
+            <!--Optional:-->\r
+            <DownPayment></DownPayment>\r
+            <!--Optional:-->\r
+            <AdminFee></AdminFee>\r
+            <!--Optional:-->\r
+            <MessageCode>INS0101</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomMessage>عزيزي العميل
+يمكنكم السداد عن طريق خدمة سداد على حسابكم رقم
+100201170600038
+تحت قائمة مدفوعات بنك الرياض
+(الرمز 067) 
+للإستفسار 
+920033800
+</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>U</MessageType>\r
+            <!--Optional:-->\r
+            <VirtualAccntNum>1654165465465</VirtualAccntNum>\r
+            <!--Optional:-->\r
+            <SADADRefNum></SADADRefNum>\r
+            <!--Optional:-->\r
+            <SMSReference>SMS01</SMSReference>\r
+            <!--Optional:-->\r
+            <Totalamount></Totalamount>\r
+            <!--Optional:-->\r
+            <Carbrand></Carbrand>\r
+            <!--Optional:-->\r
+            <Numberplate></Numberplate>\r
+         </tem:objIjarahSalesSMS>\r
+      </tem:SendSaleSMS>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendSaleSMS"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="fffee02a-cd9f-4730-a92d-6c45c75e2e21" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendSMS" name="SendSMS" bindingOperationName="SendSMS" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="0fea97f8-f61b-48bf-852e-440c536e1244" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendSMS>\r
+         <!--Optional:-->\r
+         <tem:ObjIjarahSMS>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <Recipients>?</Recipients>\r
+            <!--Optional:-->\r
+            <SMSReference>?</SMSReference>\r
+            <!--Optional:-->\r
+            <AccountNumber>?</AccountNumber>\r
+            <!--Optional:-->\r
+            <LicensePlateNo>?</LicensePlateNo>\r
+            <!--Optional:-->\r
+            <Amount>?</Amount>\r
+            <!--Optional:-->\r
+            <DueDate>?</DueDate>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+         </tem:ObjIjarahSMS>\r
+      </tem:SendSMS>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendSMS"/></con:call></con:operation><con:operation id="ed745cb9-3c15-4b94-b307-55e6f1381b87" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendSREmail" name="SendSREmail" bindingOperationName="SendSREmail" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="ac5906e8-8c67-4f8a-9caf-d1cb18172cf7" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendSREmail>\r
+         <!--Optional:-->\r
+         <tem:objIjarahSREmail>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <RecipientsTo>?</RecipientsTo>\r
+            <!--Optional:-->\r
+            <RecipientsCc>?</RecipientsCc>\r
+            <!--Optional:-->\r
+            <EmailReference>?</EmailReference>\r
+            <!--Optional:-->\r
+            <OpportunityNumber>?</OpportunityNumber>\r
+            <!--Optional:-->\r
+            <Category>?</Category>\r
+            <!--Optional:-->\r
+            <Amount>?</Amount>\r
+            <!--Optional:-->\r
+            <SubCategory>?</SubCategory>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomSubjectHead>?</CustomSubjectHead>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+            <!--Optional:-->\r
+            <DueDate>?</DueDate>\r
+            <!--Optional:-->\r
+            <SadadReferenceNumber>?</SadadReferenceNumber>\r
+            <!--Optional:-->\r
+            <CustomerName>?</CustomerName>\r
+            <!--Optional:-->\r
+            <CustomerIBAN>?</CustomerIBAN>\r
+            <!--Optional:-->\r
+            <CustomerBankName>?</CustomerBankName>\r
+            <!--Optional:-->\r
+            <VirtualAccount>?</VirtualAccount>\r
+         </tem:objIjarahSREmail>\r
+      </tem:SendSREmail>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendSREmail"/></con:call></con:operation><con:operation id="5468ada1-4444-498f-8955-05f6b2c96547" isOneWay="false" action="http://tempuri.org/IijaraMessagingGateway/SendSRSms" name="SendSRSms" bindingOperationName="SendSRSms" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="aae4cb25-ee2e-4559-8252-502f630b529f" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:57014/ijaraMessagingGateway.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:SendSRSms>\r
+         <!--Optional:-->\r
+         <tem:objIjarahSRSMS>\r
+            <!--Optional:-->\r
+            <PartnerCode>?</PartnerCode>\r
+            <!--Optional:-->\r
+            <Recipients>?</Recipients>\r
+            <!--Optional:-->\r
+            <SMSReference>?</SMSReference>\r
+            <!--Optional:-->\r
+            <OpportunityNumber>?</OpportunityNumber>\r
+            <!--Optional:-->\r
+            <Category>?</Category>\r
+            <!--Optional:-->\r
+            <Amount>?</Amount>\r
+            <!--Optional:-->\r
+            <SubCategory>?</SubCategory>\r
+            <!--Optional:-->\r
+            <MessageCode>?</MessageCode>\r
+            <!--Optional:-->\r
+            <CustomMessage>?</CustomMessage>\r
+            <!--Optional:-->\r
+            <MessageType>?</MessageType>\r
+            <!--Optional:-->\r
+            <DueDate>?</DueDate>\r
+            <!--Optional:-->\r
+            <SadadReferenceNumber>?</SadadReferenceNumber>\r
+         </tem:objIjarahSRSMS>\r
+      </tem:SendSRSms>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/IijaraMessagingGateway/SendSRSms"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

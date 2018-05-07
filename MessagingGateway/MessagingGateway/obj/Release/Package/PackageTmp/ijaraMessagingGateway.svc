@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MessagingGateway.ijaraMessagingGateway" CodeBehind="ijaraMessagingGateway.svc.cs" %>

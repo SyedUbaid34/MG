@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width: 320px) {
+.colr {
+	background-color: #952927 !important;
+	width: 19px;
+}
+.colr2 {
+	background-color: #000 !important;
+	width: 22px;
+}
+}

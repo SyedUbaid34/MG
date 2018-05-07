@@ -1,0 +1,105 @@
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\Ijarah_Dec\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\production 220 server code\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\production 220 server code\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\production 220 server code\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\production 220 server code\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\DAL\obj\Debug\DAL.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\08052017\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\08052017\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\08052017\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\08052017\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\08052017\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\08052017\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\08052017\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\Project\Alfras\Delivery\MessagingGatway_BulkMail\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\BulkMailCode\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\BulkMailCode\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\BulkMailCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\BulkMailCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\BulkMailCode\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\BulkMailCode\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\BulkMailCode\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Debug\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Debug\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Debug\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\DAL\obj\Debug\DAL.pdb
+D:\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\DAL\obj\Debug\DAL.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.dll
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\DAL.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.dll
+D:\Data\Ijarah\IjarahCode\MessagingGateway\DAL\obj\Debug\DAL.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.dll
+E:\Data\Ijarah\IjarahCode\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.pdb
+E:\Projects\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.dll
+E:\Projects\MessagingGateway\MessagingGateway\DAL\bin\Debug\DAL.pdb
+E:\Projects\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.dll
+E:\Projects\MessagingGateway\MessagingGateway\DAL\bin\Debug\ErrorLogger.pdb
+E:\Projects\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.dll
+E:\Projects\MessagingGateway\MessagingGateway\DAL\obj\Debug\DAL.pdb

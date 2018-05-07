@@ -1,0 +1,55 @@
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\bin\AjaxControlToolkit.dll
+D:\Data\MsgSimulator\MessageSimulator\MessageSimulator\bin\AjaxMin.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\Data\08052017\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\IjarahCode\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+D:\Data\Ijarah\IjarahCode\MessagingGatewayZubair\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll.config
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.dll
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\bin\MessageSimulator.pdb
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.csprojResolveAssemblyReference.cache
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.dll
+E:\Projects\MessagingGateway\MessagingGateway\MessageSimulator\MessageSimulator\obj\Debug\MessageSimulator.pdb

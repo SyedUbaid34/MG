@@ -1,0 +1,29 @@
+D:\production 220 server code\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\production 220 server code\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\production 220 server code\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\production 220 server code\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\BulkMailCode\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\BulkMailCode\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\BulkMailCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\BulkMailCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\BulkMailCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\IjarahCode\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\IjarahCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\IjarahCode\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\ErrorLogger\obj\Release\ErrorLogger.pdb

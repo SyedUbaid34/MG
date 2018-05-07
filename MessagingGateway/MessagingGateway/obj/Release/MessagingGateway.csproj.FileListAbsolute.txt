@@ -1,0 +1,90 @@
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\production 220 server code\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\production MESSAGE code 28-02-17\production 220 server code\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+C:\Users\satish kumar\Desktop\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\BulkMailCode\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\BulkMailCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\BulkMailCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\BulkMailCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\MessagingGateway.dll.config
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\MessagingGateway.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\MessagingGateway.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\DAL.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\DAL.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\bin\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\Data\Ijarah\Zubair_MessagingGateway\MessagingGateway_NewChangesTemplates\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\IjarahCode\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\IjarahCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\IjarahCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\IjarahCode\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+C:\Users\zubair.alam\Desktop\UpdatedMEssaginGatewayCode\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll.config
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\MessagingGateway.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\DAL.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\bin\ErrorLogger.pdb
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.csprojResolveAssemblyReference.cache
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.dll
+D:\MessagingGatewayCode190318\MessagingGateway\MessagingGateway\MessagingGateway\obj\Release\MessagingGateway.pdb

@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\BashaSMS120318</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DAL.dll">
+      <publishTime>03/12/2018 12:38:25</publishTime>
+    </File>
+    <File Include="bin/ErrorLogger.dll">
+      <publishTime>03/12/2018 12:38:24</publishTime>
+    </File>
+    <File Include="bin/MessagingGateway.dll">
+      <publishTime>03/12/2018 12:38:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.Auth.dll">
+      <publishTime>11/07/2016 17:20:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.dll">
+      <publishTime>11/07/2016 17:20:34</publishTime>
+    </File>
+    <File Include="css/1200.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/320.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/360.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/375.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/384.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/414.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/480.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/768.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/992.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/css.css">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/jquery-1.12.4.min.js">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="css/rasterize.js">
+      <publishTime>12/13/2016 08:36:52</publishTime>
+    </File>
+    <File Include="ijaraMessagingGateway.svc">
+      <publishTime>12/13/2016 07:37:22</publishTime>
+    </File>
+    <File Include="images/bg.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/content-bg.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/footer.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/header.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_01.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_02.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_03.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_04.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_05.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_06.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_07.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_08.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/index_09.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/logo.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/page-bg.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/page-head.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="images/social.jpg">
+      <publishTime>12/13/2016 08:37:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/12/2018 12:38:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
